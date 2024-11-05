@@ -2,15 +2,12 @@
 
 A tool to analyze and visualize statistics from exported WhatsApp chat logs! This project provides insights into WhatsApp conversations, such as message frequency, popular words, emoji usage, active days and months, and more.
 
-<p align="center">
-  <img src="https://placekitten.com/800/400" alt="Sample analysis output screenshot" width="800"/>
-</p>
-
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 ## Features
@@ -43,10 +40,10 @@ The WhatsApp Chat Analyzer provides the following analytics:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Jainish-Prajapati/WhatsApp-Chat-Analyzer.git
-   cd WhatsApp-Chat-Analyzer```
+   cd WhatsApp-Chat-Analyzer
 2. **Install dependencies**: You can use pip to install the required packages. For a full list, see the Dependencies section.
     ```bash
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
 3. **Export WhatsApp Chat**: Export your WhatsApp chat from your phone without media, and save it in .txt format. Instructions for exporting chat:
 
     - Open the chat you want to export in WhatsApp.
@@ -58,7 +55,6 @@ The WhatsApp Chat Analyzer provides the following analytics:
 - Run the analyzer by executing the main script
     ```bash
     streamlit app.py
-    ```
 
 **Contributing**
 

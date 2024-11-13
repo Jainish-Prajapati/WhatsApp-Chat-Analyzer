@@ -70,6 +70,6 @@ The WhatsApp Chat Analyzer provides the following analytics:
 
 - This project was developed using a tutorial by [CampusX](https://github.com/campusx-official/). Many thanks for their helpful resources and guidance on building a WhatsApp Chat Analyzer.
 
-**License**
+## License
 
 - Distributed under the MIT License. See LICENSE for more information.

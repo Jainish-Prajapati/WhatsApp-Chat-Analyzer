@@ -50,13 +50,13 @@ The WhatsApp Chat Analyzer provides the following analytics:
     - Tap on options > Export chat > Without media.
     - Save the file and move it to the project directory.
 
-**Usage**
+## Usage
 
 - Run the analyzer by executing the main script
     ```bash
     streamlit app.py
 
-**Contributing**
+## Contributing
 
 - Contributions are welcome! If you have suggestions or would like to improve this project, please fork the repository and create a pull request.
 
